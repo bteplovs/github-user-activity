@@ -1,0 +1,15 @@
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/bin/Debug/net10.0/gitActivity
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/bin/Debug/net10.0/gitActivity.deps.json
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/bin/Debug/net10.0/gitActivity.runtimeconfig.json
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/bin/Debug/net10.0/gitActivity.dll
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/bin/Debug/net10.0/gitActivity.pdb
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/obj/Debug/net10.0/gitActivity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/obj/Debug/net10.0/gitActivity.AssemblyInfoInputs.cache
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/obj/Debug/net10.0/gitActivity.AssemblyInfo.cs
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/obj/Debug/net10.0/gitActivity.csproj.CoreCompileInputs.cache
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/obj/Debug/net10.0/gitActivity.sourcelink.json
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/obj/Debug/net10.0/gitActivity.dll
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/obj/Debug/net10.0/refint/gitActivity.dll
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/obj/Debug/net10.0/gitActivity.pdb
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/obj/Debug/net10.0/gitActivity.genruntimeconfig.cache
+/Users/bogdanteplovs/Desktop/Programming/github-user-activity/gitActivity/obj/Debug/net10.0/ref/gitActivity.dll
